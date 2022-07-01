@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git repo link](https://github.com/Plut0r/blogr-page)
+- Solution URL: [Git repo link](https://github.com/Plut0r/dictionary-app)
 - Live Site URL: [Netlify live url](https://blogr-page-plut0r.netlify.app/)
 
 
